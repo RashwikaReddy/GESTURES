@@ -1,0 +1,11 @@
+h1{
+    color:forestgreen;
+}
+body{
+    background:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+#camera{
+    width:350px;
+    height:350px;
+    border:2px dotted black
+}
